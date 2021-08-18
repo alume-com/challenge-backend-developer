@@ -11,7 +11,7 @@ O desafio pode ser feito em javascript puro, mas Typescript será um diferencial
 Você pode criar um servidor NodeJS usando Express e organizar o projeto da forma como achar mais conveniente, seja MVC ou outro padrão. O endpoint não recebe nenhum parâmetro.
 
 ### Dentro do serviço, ler [o endpoint de lançamentos futuros da Space Devs](https://ll.thespacedevs.com/2.2.0/swagger#operations-launch-launch_upcoming_list)
-O serviço deve carregar os dados do endpoint da Space Devs, filtrando por alguns parâmetros: `include_suborbital=true`, para que inclua lançamentos suborbitais e `lsp__name=spacex`, para que sejam recebidos apenas os lançamentos da SpaceX. Você pode usar quaisquer bibliotecas tiver mais experiência para carregar os dados deste endpoint.
+O serviço deve carregar os dados do endpoint da Space Devs, filtrando por alguns parâmetros: `include_suborbital=true`, para que inclua lançamentos suborbitais e `lsp__name=spacex`, para que sejam recebidos apenas os lançamentos da SpaceX. Você pode usar quaisquer bibliotecas que tiver mais experiência para carregar os dados deste endpoint (Exemplo: Axios).
 
 ### Retornar um resumo dos lançamentos
 
