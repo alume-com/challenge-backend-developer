@@ -70,3 +70,7 @@ O Luxon é uma biblioteca feita pelo mesmo time do MomentJS. Depois da deprecia�
 
 ### [Lauch Library 2.2](https://ll.thespacedevs.com/2.2.0/swagger#operations-launch-launch_upcoming_list)
 API aberta e gratuita feita e atualizada por fãs de exploração espacial. Tem uma série de recursos sobre lançamentos, bases de lançamento, programas espaciais, etc. No nosso teste usaremos um único endpoint, `GET /launch/upcoming/`, [cuja documentação você pode acessar clicando aqui](https://ll.thespacedevs.com/2.2.0/swagger#operations-launch-launch_upcoming_list).
+
+## Envio do teste
+
+Você pode enviar o link para o seu repositório para developers@alume.com. Caso tenha dúvidas sobre algum aspecto do teste você pode enviá-las para o mesmo e-mail.
